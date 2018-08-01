@@ -1,0 +1,40 @@
+p.small {
+  color: RGB(0 ,0, 0);
+  padding: 10px;
+  font-size: 14px;
+  text-indent: 10px;
+}
+
+/* Default word color */
+.words {
+  color: RGB(8, 0, 129);
+}
+
+/* Background color of navigation bar */
+.naviBarBackground {
+	background-color: RGB(8, 0, 129);
+	padding: 3px;
+}
+
+/* Words within navigation bar */
+.naviBar {
+	color: RGB(255, 255, 255);
+	font-size: 16px;
+	padding: 10px;
+}
+
+.restaurantName {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+img.topRight {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.blueBannerWords {
+  color: RGB(255, 255, 255);
+  font-size: 1vw;
+}
